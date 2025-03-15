@@ -19,7 +19,7 @@ Data Source: [H1B LCA Disclosure Data (2020-2024)](https://www.kaggle.com/datase
 
 ---
 
-3. Scalable Data Processing & Cleaning
+## 3. Scalable Data Processing & Cleaning
 
 ### 3.1 Infrastructure & Tooling 
 

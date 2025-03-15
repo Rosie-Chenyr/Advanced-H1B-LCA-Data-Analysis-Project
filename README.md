@@ -1,6 +1,6 @@
 # IMT574# README: Advanced H1B LCA Data Analysis Project
 
-1. Project Overview
+## 1. Project Overview
 
 This project presents an in-depth analysis of the H1B Labor Condition Application (LCA) disclosure data (2020-2024), leveraging large-scale data processing techniques, machine learning models, and statistical analysis to uncover employment trends, wage disparities, and approval dynamics in the U.S. job market.
 
@@ -10,7 +10,7 @@ Data Source: [H1B LCA Disclosure Data (2020-2024)](https://www.kaggle.com/datase
 
 ---
 
-2. Research Objectives
+## 2. Research Objectives
 
 -  Scalable Data Processing : Addressing the challenges of  big data using cloud-based and containerized solutions.
 -  Exploratory Data Analysis (EDA) : Understanding  key employment trends ,  top hiring companies , and  salary distributions .

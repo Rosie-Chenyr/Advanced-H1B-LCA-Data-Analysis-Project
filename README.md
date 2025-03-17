@@ -59,7 +59,6 @@ To address this, we implemented:
 
 After optimization, we deployed an  XGBoost classifier , achieving:
 
--  AUC-ROC Score: 0.89 (compared to 0.50 in baseline logistic regression)
 -  Balanced Precision-Recall through advanced resampling techniques
 -  Feature Importance Insights :
   - High salaries  increase approval probability.
@@ -75,14 +74,9 @@ After optimization, we deployed an  XGBoost classifier , achieving:
 -  Tech giants (Amazon, Google, Microsoft) lead in H1B sponsorship, with over  20% of total filings .
 -  Startups & SMEs show higher variance in approval rates, likely due to inconsistent documentation.
 
-###  5.2 Wage & Location-Based Patterns 
+###  5.2 Wage Pattern
 
--  California, New York, and Texas account for  60%+ of total applications , with average wages significantly higher in  Silicon Valley .
 - Despite high wage offers,  some industries face disproportionately high rejection rates , suggesting policy-driven scrutiny.
-
-###  5.3 Policy & Decision-Making Implications 
-
-- The trend of  increasing scrutiny post-2022 suggests that companies must focus on  clear documentation and  competitive salaries .
 - Wage transparency laws might impact future LCA filings, requiring firms to adjust their application strategies.
 
 ---

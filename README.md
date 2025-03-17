@@ -1,4 +1,4 @@
-# IMT574# README: Advanced H1B LCA Data Analysis Project
+# README: Advanced H1B LCA Data Analysis Project
 
 ## 1. Project Overview
 
